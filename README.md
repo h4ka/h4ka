@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Andrei
+- 👀 I’m interested in Mobile Development and Clean Code
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on new Startup ideas
+- 📫 How to reach me: linkedin.com/in/andreizorin/
