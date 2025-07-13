@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Andrei
-- 👀 I’m interested in Mobile and Frontend Development
-- 🌱 I’m currently learning Next.js and Svelte
-- 💞️ I’m looking to collaborate on new startup ideas
+- 👋 Hi, I’m Andrei. I am a Senior Fullstack Software Engineer.
+- 👀 I’m interested in Mobile and Frontend Development.
+- 🌱 I’m currently working with Kotlin, Spring Boot, Typescript, React Router and HTMX.
+- 💞️ I’m looking to collaborate on new startup ideas.
 - 📫 How to reach me: linkedin.com/in/andreizorin/
